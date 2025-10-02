@@ -1,4 +1,5 @@
 ## Hello Word! I'm Egi 👽
+
 <!--
 **egi616/egi616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +23,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
+## your life about to change... listen to this!
+![alt text](image-2.png)
