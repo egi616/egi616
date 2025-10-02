@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello Word! I'm Egi 👽
 <!--
 **egi616/egi616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning java, html, css and javascript
+- 📫 How to reach me: egijaelani1010@gmail.com
+
+
