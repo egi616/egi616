@@ -1,26 +1,56 @@
-## Hello Word! I'm Egi and I👽
+<h2 align="center"> I'm  Egi and I 👽</h2>
 
-<!--
-**egi616/egi616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### I'm Curently Trying Learning some
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,postgresql,figma,git,linux,vscode&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🌱 I’m currently learning java and...
-- 📫 How to reach me: egijaelani1010@gmail.com
+### 🩻 My Socialize tools
+<p align="center">
+  <a href="https://instagram.com/ejae616">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  <a href="egijaelani1010@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
 
-## Language I'm curently learning
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+---
 
-![alt text](image.png)
+### 🧰 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egi616&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egi616&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egi616&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎮 Mini Game Zone
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game animation" />
+</p>
+
+---
+
+### 🧰 More Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egi616&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egi616&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by
+</p>
