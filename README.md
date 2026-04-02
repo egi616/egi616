@@ -1,4 +1,4 @@
-<h2 align="center"> I'm  Egi and I 👽</h2>
+<h2 align="center"> Egi Jaelani Febriansyah (5520124039) IF B 24</h2>
 
 ---
 
