@@ -1,5 +1,5 @@
 <h2 align="center"> Egi Jaelani Febriansyah (5520124039) IF B 24</h2>
-<a href="https://egi616.github.io/egi-portofolio/"> web portofolio</a>
+<a align="center" href="https://egi616.github.io/egi-portofolio/"> web portofolio</a>
 
 ---
 
